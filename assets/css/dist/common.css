@@ -51,14 +51,36 @@ input{
 .divgrey{
 	border: 1px solid grey;
 	width:100%;
-	height:60px;
+	height:55px;
 }
 
 .bold{
 	font-weight:bold;
 }
 
+.inline{
+	display:inline;
+}
 
+#autor{
+	margin-left:95%;
+	margin-top:-20%;
+}
+
+#editorial{
+	height:55px;
+}
+
+.font-size{
+	font-size:12px;
+	line-height:45%;
+}
+
+footer{
+	background-color:#DCDCDC;
+	padding-top:5%;
+	margin-top:5%;
+}
 @media screen and (max-width:600px){
 	.li{
 	
