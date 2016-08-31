@@ -8,3 +8,33 @@ img{
 	position:fixed;
 	width: 20%;
 }
+.width{
+	max-width: 100%;
+}
+.form-control{
+	background: #F4F6F7;
+	display:inline;
+}
+textarea.form-control{
+	height: 100px;
+	box-shadow:3px 3px 9px #FFF;
+}
+button.btn-default{
+	background:black;
+	padding-left: 8%;
+	padding-right: 8%;
+	color:white;
+}
+form{
+	max-width: 80%;
+	margin:0 auto;
+}
+.mrg-btm{
+	margin-bottom:1%;
+}
+input[type="radio"]{
+	margin-right: 2%;
+}
+.mrg-p{
+	margin-bottom:8%;
+}
