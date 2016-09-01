@@ -1,4 +1,4 @@
-/*!
+drop/*!
  * Bootstrap v3.3.2 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
@@ -2941,6 +2941,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .input-group-btn:last-child > .btn-group {
   margin-left: -1px;
 }
+.mg3{
+  margin-bottom: 3%;
+}
 .breadcrumb {
   padding: 8px 15px;
   margin-bottom: 20px;
@@ -3151,11 +3154,13 @@ a.label:focus {
   background-color: #ec971f;
 }
 .label-danger {
-  background-color: #d9534f;
+  background-color: #CD1616;
+  padding:1.5%;
+  color:white;
 }
 .label-danger[href]:hover,
 .label-danger[href]:focus {
-  background-color: #c9302c;
+  background-color: #CD1616;
 }
 .embed-responsive {
   position: relative;
