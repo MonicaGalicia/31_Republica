@@ -30,7 +30,7 @@
 	margin-bottom:1%;
 }
 
-input{
+.search1{
 	width:100%;
 }
 .redes{
@@ -179,19 +179,33 @@ input{
     }
 
 
-footer{
+.bg-footer{
 	background-color:#DCDCDC;
 	padding-top:5%;
 	margin-top:5%;
 }
 
+
 .navfooter{
 	display:inline-block;
 	list-style:none;
-	
+    color:black;
 }
 
+a:hover{
+    text-decoration:none;
+}
+a{
+    color:black;
+}
 
+.border{
+border-right:solid white 1px;
+
+}
+.fontsize-footer{
+    font-size:0.8em;
+}
 
 @media screen and (max-width:600px){
 	.li , #corrupcion{
