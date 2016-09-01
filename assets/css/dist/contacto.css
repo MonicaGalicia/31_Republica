@@ -53,6 +53,7 @@ input[type="radio"]{
 }
 h2{
 	font-weight: bold;
+	margin-top:70px;
 }
 .inline{
 	display: inline;
